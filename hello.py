@@ -6,4 +6,4 @@ if __name__ == '__main__':
 	#add another one line
 	print "hello moon\n"
 	#add for mars
-	print "Hey mas.\n"
+	print "Hey mars.\n"
