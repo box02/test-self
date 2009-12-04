@@ -1,9 +1,9 @@
 ﻿#!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
+def hello():
+    u = raw_input("what planet you would like to live on? ")
+    print "You are now on %s." % u
+
 if __name__ == '__main__':
-	print "hello earth\n"
-	#add another one line
-	print "hello moon\n"
-	#add for mars
-	print "Hey mars.\n"
+	hello()
