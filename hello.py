@@ -10,6 +10,6 @@ def curiosity():
     print "Oh, you like %s, but mine is Python.\n" % g
 
 if __name__ == '__main__':
-	hello()
+    hello()
     curiosity()
     print "Have a nice day, Bye!\n"
